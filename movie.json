@@ -1,0 +1,80 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "DYTT",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    "ruyi": {
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "name": "RYZY"
+    },
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "BFZY"
+    },
+    "ffzy": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "name": "FFYS",
+      "detail": "http://ffzy5.tv"
+    },
+    "zy360": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "360"
+    },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "MTZY"
+    },
+    "wolong": {
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "name": "WLZY"
+    },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "JSZY",
+      "detail": "https://jszyapi.com"
+    },
+    "dbzy": {
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "DBZY"
+    },
+    "mdzy": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "MDZY"
+    },
+    "zuid": {
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "name": "ZDZY"
+    },
+    "wujin": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "WJZY"
+    },
+    "wwzy": {
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "name": "WWDJ"
+    },
+    "tyzy": {
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "name": "TYZY"
+    },
+    "ikun": {
+      "api": "",
+      "name": "iKunZY"
+    },
+    "BFZY": {
+      "api": "https://bf.xoxowin86cisyap.com/api.php/provide/vod/",
+      "name": "BFZY"
+    },
+    "IQYZY": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/",
+      "name": "IQYZY"
+    },
+    "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "LZZY"
+    }
+  }
+}
